@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("counterBtn").onclick=()=>{const t=document.getElementById("counter");t.textContent=parseInt(t.textContent)+1},document.getElementById("sayhello").onclick=()=>{alert("Hello")}})();
